@@ -1,1 +1,1 @@
-Проверка обновлений SetApp Corporate Edition
+Only check updates
